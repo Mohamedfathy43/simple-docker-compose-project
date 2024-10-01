@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # simple-docker-compose-project
 =======
 # Docker Compose شرح
@@ -13,4 +12,3 @@ This `docker-compose.yml` build and run two services, the first one is to build 
 ```
 docker-compose up
 ```
->>>>>>> b8abf9b (docker-compose)
